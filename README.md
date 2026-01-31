@@ -1,12 +1,12 @@
 # Nathan King | Bus-Econ & Stats @ UCLA
 ## Projects
-ARIMA-Based Futures Trading Bot | Python, Statsmodels, Pandas\
+**ARIMA-Based Futures Trading Bot** | Python, Statsmodels, Pandas\
 Status: In Development
 * Implementing an ARIMA model to forecast short-term price movements in futures markets.
 * Conducting stationarity testing (Augmented Dickey-Fuller) and optimizing $(p, d, q)$ parameters for predictive accuracy.
 * Integrating historical data streams to simulate real-time trading signals and evaluate model performance against market benchmarks.
 
-Stock Backtesting Framework | Python, Financial Modeling\
+**Stock Backtesting Framework** | Python, Financial Modeling\
 Status: In Development · Collaborative Project
 * Collaborating on a comprehensive framework designed to validate quantitative trading strategies using historical market data.
 * Engineering modular components for data ingestion, strategy execution, and risk-adjusted performance metrics (e.g., Sharpe Ratio).
@@ -21,13 +21,13 @@ Status: In Development · Collaborative Project
 | Analysis | Market Analysis, ROI Benchmarking, OKRs |
 
 ## Background 
-**Data Science & Analytics**
-* Kaar Infotech | _Data Science Intern (Microsoft Build 2026)_
-* Civic Leaders of America | _Pacific Coast Head Commissioner_
+Data Science & Analytics
+* **Kaar Infotech** | _Data Science Intern (Microsoft Build 2026)_
+* **Civic Leaders of America** | _Pacific Coast Head Commissioner_
 
-**Strategy Consulting**
-* Bruin Business | _Consulting Intern_
-* BruinLife | _Financial and Data Journalist_
+Strategy Consulting
+* **Bruin Business** | _Consulting Intern_
+* **BruinLife** | _Financial and Data Journalist_
 
 <!--
 **nathan-aking/nathan-aking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
