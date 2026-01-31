@@ -21,12 +21,13 @@ Status: In Development · Collaborative Project
 | Analysis | Market Analysis, ROI Benchmarking, OKRs |
 
 ## Background 
-**Data Science & Analytics**\
-Kaar Infotech | _Data Science Intern (Microsoft Build 2026)_\
-Civic Leaders of America | _Pacific Coast Head Commissioner_\
-**Strategy Consulting**\
-Bruin Business | _Consulting Intern_\
-BruinLife | _Financial and Data Journalist_
+**Data Science & Analytics**
+* Kaar Infotech | _Data Science Intern (Microsoft Build 2026)_
+* Civic Leaders of America | _Pacific Coast Head Commissioner_
+
+**Strategy Consulting**
+* Bruin Business | _Consulting Intern_
+* BruinLife | _Financial and Data Journalist_
 
 <!--
 **nathan-aking/nathan-aking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
